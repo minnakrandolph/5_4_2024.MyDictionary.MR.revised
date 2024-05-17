@@ -12,7 +12,7 @@ function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="footer text-center"><small>coded by Minna Randolph</small></footer>
+      <footer className="footer text-center"><small>Open sourced code by <a href="https://github.com/minnakrandolph/5_4_2024.MyDictionary.MR.revised">Minna Randolph </a></small></footer>
       </div>
       </div>
   );
