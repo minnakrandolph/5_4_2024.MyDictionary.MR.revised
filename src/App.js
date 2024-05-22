@@ -1,6 +1,8 @@
 import './App.css';
 import passionflower from "./passionflower.jpg";
+import Results from "./Results";
 import Dictionary from "./Dictionary.js";
+
 
 function App() {
   return (
